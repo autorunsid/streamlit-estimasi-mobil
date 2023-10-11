@@ -1,5 +1,5 @@
 numpy
 pandas
 sckit-learn
-streamlit==1.15.0
-matplotlib==3.5.2
+streamlit==1.27.2
+matplotlib==3.7.2
